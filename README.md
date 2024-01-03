@@ -1,16 +1,18 @@
-### Hi there 👋
+### about me
+im just a generic research assistant that likes to program for
+fun. i am curious about acceleration, specifically effective and
+efficient utilization of llms on the edge. think mixtral8x7b in
+your pocket.
 
-<!--
-**slmatrix/slmatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## tools i like 🛠️
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <img src="./image/langchain.png" width="74" height=""/>&nbsp;
+    <img src="./image/chroma.jpg" width="64" height=""/>&nbsp;
+    <img src="./image/fabric.svg" width="30" height=""/>&nbsp;
+    <img src="./image/pytorch.jpg" width="40" height=""/>&nbsp;
+    <img src="./image/onnx.png" width="74" height=""/>&nbsp;
+    <img src="./image/docker.png" width="84" height=""/>&nbsp;
+    <img src="./image/debian.png" width="45" height=""/>&nbsp;
+    <img src="./image/neovim.jpg" width="74" height=""/>&nbsp;
+<div>
