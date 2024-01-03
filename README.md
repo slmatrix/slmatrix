@@ -7,8 +7,8 @@ your pocket.
 ## tools i like 🛠️
 
 <div>
-    <img src="./image/langchain.png" width="74" height=""/>&nbsp;
-    <img src="./image/chroma.jpg" width="64" height=""/>&nbsp;
+    <img src="./image/langchain.png" width="74" height=""/>&nbsp;&nbsp;&nbsp;
+    <img src="./image/chroma.png" width="40" height=""/>&nbsp;&nbsp;&nbsp;
     <img src="./image/fabric.svg" width="30" height=""/>&nbsp;&nbsp;&nbsp;
     <img src="./image/pytorch.jpg" width="40" height=""/>&nbsp;&nbsp;&nbsp;
     <img src="./image/onnx.png" width="74" height=""/>&nbsp;
